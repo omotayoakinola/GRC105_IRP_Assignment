@@ -11,7 +11,7 @@ Scenario: Northbridge Skills Institute (fictional), suspected ransomware inciden
 * Task 5: tabletop exercise, decision log and improvement plan
 * Task 6: healthcare ransomware case study analysis
 
-The full assignment is provided as a Word document and a PDF.
+The full assignment is provided as a Word document.
 
 ## Notes
 All organisations, people, contact details and data are fictional.
